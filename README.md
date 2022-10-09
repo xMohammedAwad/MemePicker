@@ -5,8 +5,8 @@ Preview my site <a href="https://muhmmadawd.github.io/MemePicker/"> Here </a>
 
 <hr>
 <p float="left">
-<img src="./images/_website.png" width="400px">
-<img src="./images/_.png" width="400px">
+<img src="./images/_website.png" width="400px" height="500px">
+<img src="./images/_.png" width="400px" height="500px">
 </p>
 <hr>
 <img src="./images/goal.png">
