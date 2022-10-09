@@ -1,7 +1,7 @@
 # MemePicker
 
 course project to learn essential js concept.
-Preview my site <a href="https://muhmmadawd.github.io/oldagram/"> Here </a>
+Preview my site <a href="https://muhmmadawd.github.io/MemePicker/"> Here </a>
 
 <hr>
 <p float="left">
